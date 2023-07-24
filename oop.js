@@ -241,3 +241,5 @@ let koffe = new Smartphone(["root"], 8056, "off", "Koffe", "Techno", "Spark 10 P
 // check_storage()  // check storage
 // reset()          // reset apps
 // cam()            // run camera
+
+koffe.hello();
